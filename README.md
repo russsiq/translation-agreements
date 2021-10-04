@@ -4,6 +4,8 @@
 
 В русской раскладке используются двойные кавычки в формате `«слово»`.
 
+При отсутствии термина, можно воспользоваться поиском по терминологической базе Майкрософт, например: [domain model](https://www.microsoft.com/en-us/language/Search?&searchTerm=domain%20model&langID=635&Source=true&productid=)
+
 <a name="terms-and-definitions"></a>
 ### Термины и определения
 
